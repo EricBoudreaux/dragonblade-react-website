@@ -1,0 +1,39 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700;900&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,700;1,800;1,900&display=swap');
+
+/* 
+font-family: 'Cinzel Decorative', cursive;
+font-family: 'Lato', sans-serif;
+font-family: 'Montserrat', sans-serif;
+ */
+
+ :root {
+    --accent: #900000;
+    --bg-tan: #E9DDD4;
+ }
+
+ @layer base {
+   h1 {
+      @apply font-['Montserrat'] text-4xl font-semibold
+   }
+   
+ }
+
+body {
+   font-family: 'Lato', sans-serif;
+}
+.hero-bg-1 {
+   background-image: url('./img/Group_photo.png');
+}
+.feature-bg {
+   background-image: url('./img/parralax_bg.png');
+}
+
+
+.title {
+   font-family: 'Cinzel Decorative', cursive;
+   font-weight: 900
+}

@@ -4,7 +4,7 @@ import contactImg from '../img/Ry_Char_Art.png'
 
 const Contact = () => {
   return (
-    <div  name='contact' className='max-w-[1440px] pt-24 bg-black'>
+    <div  name='contact' className='pt-24 bg-black'>
         <div className='w-full h-full'>
             <div className='text-center py-6'>
                 <h1 className='text-white'>Contact </h1>

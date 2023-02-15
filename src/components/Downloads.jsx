@@ -4,7 +4,7 @@ import React from 'react'
 
 const Downloads = () => {
   return (
-    <div  name='downloads' className='max-w-[1440px] md:px-24 pb-40 bg-[var(--bg-tan)]'>
+    <div  name='downloads' className='md:px-24 pb-40 bg-[var(--bg-tan)]'>
         <div className='text-center py-6'>
             <h1 className='text-black'>Downloads</h1>
             <hr className='border border-black mx-auto w-32 my-4'/>

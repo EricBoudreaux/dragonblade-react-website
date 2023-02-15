@@ -10,7 +10,7 @@ import { GiBookmarklet,
 
 const Features = () => {
   return (
-    <div name='features' className='max-w-[1440px] py-24 feature-bg bg-no-repeat bg-cover bg-center bg-fixed relative'>
+    <div name='features' className='py-24 feature-bg bg-no-repeat bg-cover bg-center bg-fixed relative'>
         <div className='w-full h-full px-4 md:px-12'>
 
 

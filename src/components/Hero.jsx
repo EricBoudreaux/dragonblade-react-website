@@ -8,7 +8,7 @@ import { Link } from 'react-scroll'
 
 const Hero = () => {
   return (
-    <div className='max-w-[1440px] relative h-screen bg-black hero-bg-1 bg-fixed bg-cover bg-top bg'>
+    <div className='relative h-screen bg-black hero-bg-1 bg-fixed bg-cover bg-top bg'>
 
 
           <div className="absolute  bottom-24 flex-col  text-left px-6 z-40 md:ml-12">

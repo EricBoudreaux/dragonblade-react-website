@@ -8,7 +8,7 @@ import EpisodeCarousel from './EpisodeCarousel'
 
 const Releases = () => {
   return (
-    <div name='releases' className='max-w-[1440px] py-24 bg-[var(--bg-tan)]'>
+    <div name='releases' className='py-24 bg-[var(--bg-tan)]'>
         <div className='w-full h-full'>
         <div className='text-center py-6'>
             <h1 className='text-black'>Releases </h1>

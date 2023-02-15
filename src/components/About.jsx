@@ -8,7 +8,7 @@ import aboutImageMain from '../img/Tiirn_map.jpeg'
 
 const About = () => {
   return (
-    <div name='about' className='max-w-[1440px] py-24 bg-[var(--bg-tan)]'>
+    <div name='about' className='py-24 bg-[var(--bg-tan)]'>
       <div className='w-full h-full px-4 md:px-12'>
 
         <div className='flex-cols md:flex justify-around'>

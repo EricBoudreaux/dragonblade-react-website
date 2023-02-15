@@ -12,7 +12,7 @@ const [nav, setNav] = useState(false)
 
 
   return (
-    <div className='max-w-[1440px] w-full z-50 absolute top-0 bg-transparent '>
+    <div className='w-full z-50 absolute top-0 bg-transparent '>
       <div className='flex justify-between items-center px-8 py-4'>
         <div>
           {/* Brand */}
